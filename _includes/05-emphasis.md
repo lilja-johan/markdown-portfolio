@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm very *strong* and very _elegant_.
+I'm proficient in _java_ and knows the *basics* of _SQL_.
